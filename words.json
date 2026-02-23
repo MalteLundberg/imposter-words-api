@@ -1,0 +1,16 @@
+{
+  "themes": [
+    {
+      "id": "countries",
+      "words": ["sweden", "japan", "brazil", "canada", "italy"]
+    },
+    {
+      "id": "food",
+      "words": ["pizza", "sushi", "burger", "pasta", "taco"]
+    },
+    {
+      "id": "animals",
+      "words": ["tiger", "elephant", "rabbit", "shark", "eagle"]
+    }
+  ]
+}
