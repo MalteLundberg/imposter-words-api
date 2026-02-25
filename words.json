@@ -1,16 +1,24 @@
 {
   "themes": [
     {
-      "id": "countries",
-      "words": ["sweden", "japan", "brazil", "canada", "italy"]
+      "id": "Drinking",
+      "words": ["Beer", "Cider", "Wine", "Shots", "Party", "Drunk", "Bartender", "Vodka", "Gin", "Whiskey", "Negroni", "Redbull Vodka", "Whiskey sour"]
+    },
+     {
+      "id": "Video games",
+      "words": ["Black ops 6", "Minecraft", "Clash of clanes", "Fortnite", "Counter Srike", "Mario cart", "Chess", "Teraria", "Fifa"]
     },
     {
-      "id": "food",
-      "words": ["pizza", "sushi", "burger", "pasta", "taco"]
+      "id": "Countries",
+      "words": ["Sweden", "Japan", "Brazil", "Canada", "Italy", "France", "Spain", "Australia", "Mexico", "Egypt", "India", "China", "Norway", "Germany", "South Africa"]
     },
     {
-      "id": "animals",
-      "words": ["tiger", "elephant", "rabbit", "shark", "eagle"]
+      "id": "Food",
+      "words": ["Pizza", "Sushi", "Burger", "Pasta", "Taco", "Meat balls", "Steak", "Lasagna", "Curry", "Pancakes"]
+    },
+    {
+      "id": "Animals",
+      "words": ["Dog", "Elephant", "Cat", "Shark", "Eagle", "Lion", "Bear", "Wolf", "Hamster", "Zebra","Panda", "Penguin", "Dolphin", "Monkey", "Turtle"]
     }
   ]
 }
